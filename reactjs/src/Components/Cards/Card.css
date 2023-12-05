@@ -1,0 +1,42 @@
+.card img {
+    width: 270px;;
+    margin-left: 05%;
+}
+
+.cardtitle{
+    color: white;
+    margin-top: 2%;
+}
+.cardtext {
+    color: #16265b;
+    margin-top: 10%;
+    line-height: 150%;
+}
+.cardbtn {
+    background-color: #ee8340;
+    border: none;
+    margin-top: 30%;
+}
+.cardbtn:hover{
+    background-color: darkorange;
+}
+.card{
+    background-color: #fc3509;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

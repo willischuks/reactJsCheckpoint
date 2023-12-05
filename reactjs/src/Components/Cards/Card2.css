@@ -1,0 +1,18 @@
+.logod{
+    width: 70px;
+}
+.cardtitle2 {
+    color: white;
+    text-shadow: 2px 2px #ff0000;
+}
+.cardtext2 {
+    color: #16265b ;
+}
+.cardlink {
+    color: white;
+    text-decoration: none;
+}
+.cardlink:hover{
+    color: black;
+    text-decoration: underline;
+}

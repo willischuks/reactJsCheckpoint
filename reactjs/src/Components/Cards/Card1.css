@@ -1,0 +1,21 @@
+.card1{
+    background-image: url(../Assets/istockphoto-183031523-612x612.jpg);
+}
+.social {
+    color: darkorange;
+    margin-left: 35%;
+    margin-top: 60%;
+}
+.cardtxt{
+    color: #f4ab7e;
+    margin-top: 10%;
+}
+.icon {
+    color: #f6a675;
+    margin-left: 20%;
+    margin-top: 90%;
+}
+.icon i {
+    font-size: 1.5em;
+    margin-top: 20%;
+}
